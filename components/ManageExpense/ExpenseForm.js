@@ -1,4 +1,4 @@
-import { Alert } from "react-native";
+
 import { StyleSheet, Text, View } from "react-native";
 import { GlobalStyles } from "../../constants/styles";
 import Input from "./Input";
